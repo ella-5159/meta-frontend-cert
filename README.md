@@ -1,7 +1,7 @@
 # Meta Front End Developer Professional Certification
 
 
-### Notes for grader 
+### Notes
 
 * To run locally, in the main folder run `npm i` to install the node_modules folder. Once this is complete you will be able to run the app with `npm start`
 * Unit tests located in the `__tests__` folder. Run all tests at once with the `a` flag, e.g. `npm run test a` 
